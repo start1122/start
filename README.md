@@ -14,6 +14,16 @@
  Technical team locked position：200，000，000TG
  
  Issuing mechanism: All users get 970 million through 30 million
+ 
+## Charge-Depleting
+
+1.Transactions incur a 5 percent commission
+
+2.The exchange charges 10% commission for brushing orders
+
+3.Use of game coin
+
+4.500 million in circulation
 
 ## Rise algorithm
 
