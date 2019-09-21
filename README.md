@@ -13,11 +13,11 @@
 
 ## Banknote rule
 
-- Coin banknote rule：The average daily price was 105% of the previous day，Release 2% to market
+- Coin banknote rule：When the average daily price was 105% of the previous day，Release 2% to market
 
 - 原始币发行规则：24点前的24小时市场均价提升达上一日计价的105%，则自动释放2%根据算力衍生模型分配给持币者
 
-- When the total issuance reached 50 million，A 20% reduction of 2%
+- When the total issuance reached 50 million，Take 20% reduction of 2%
 
 - 发行细则：总发行量每达5000万时，2%递减20%
 
