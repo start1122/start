@@ -57,7 +57,7 @@ The second team gross earnings arrive 1.5M . To give user 30000 coin.
 
 The third team gross earnings arrive 2.5M . To give user 60000 coin.
 
-The fourth team gross earnings arrive 2.5M . To give user 120000 coin.
+The fourth team gross earnings arrive 4.5M . To give user 120000 coin.
 
 ## Initial offerings
 
