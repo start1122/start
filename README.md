@@ -6,6 +6,14 @@
  Original issue：30,000,000TG
 
  Issue price：10TG=1USDT
+ 
+ Max：1,200,000,000TG
+ 
+ Circulate：1,000,000,000TG
+ 
+ Technical team locked position：200，000，000TG
+ 
+ Issuing mechanism: All users get 970 million through 30 million
 
 ## Rise algorithm
 
