@@ -31,17 +31,13 @@
 
 ## Banknote rule
 
-- Coin banknote rule：When the average daily price was 105% of the previous day，Release 2% to market
+- Opening price = 0.7cny
 
-- 原始币发行规则：24点前的24小时市场均价提升达上一日计价的105%，则自动释放2%根据算力衍生模型分配给持币者
+- Coin banknote rule：When 30 million was released, if was up 5 percent in 24 hours,circulation coin issuance of 2%
 
 - When the total issuance reached 50 million，Take 20% reduction of 2%
 
-- 发行细则：总发行量每达5000万时，2%递减20%
-
 - 50% releases power to the team，50% releases power to the user
-
-- 发行方向：每次发行量50%释放向个人持币算力，50%释放向团队持币算力
 
 ## User HashRate algorithm
 
