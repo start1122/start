@@ -37,7 +37,7 @@
 
 - When the total issuance reached 50 million，Take 20% reduction of 2%
 
-- 50% releases power to the team，50% releases power to the user
+- Coin issue : 50% releases power to the team，50% releases power to the user
 
 ## User HashRate algorithm
 
